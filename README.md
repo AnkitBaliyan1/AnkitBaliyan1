@@ -32,7 +32,7 @@ Tools: [Python], [MySQL], [R-Programming], [Excel], [MS Office suit]
 ## 🔬 Projects:
 
 ### 🤖 Machine Learning:
-- 🚗 [Don't Get Kicked challenge]: [Peojects aims to predict whether a car at the auction "Is Bad Buy" 💡 ]
+- 🚗 [Don't Get Kicked challenge]: Peojects aims to predict whether a car at the auction "Is Bad Buy" 💡 
 - 📈 [Inventory forecast for BPCL - Time Series forecasting]: [Forecasting the inventory for Bharat Petroleum Corporation Limited. The poejcts includes extensive EDA, and techniques like time series clustring, multiple model like ARIMA, FBProphet, etc.]
 - 🎬 [Movie Review based Sentiment Analysis – using Neural Net]: [Analysing the highly polarised movie review data to classifiy the sentiment into positive or negative with Neural Network model]
 - 🌪️ [Twitter Disaster Detection and Monitoring using Natural Language Processing]: [Predicting the occurance of Natural Disaster based on the twitter data. Extensive Data Cleaning and Data Prepration was conducted before building a complex classification model.]
