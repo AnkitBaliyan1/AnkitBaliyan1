@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 - Concurrently, actively pursuing a comprehensive self-study program to augment my knowledge base.
 
 ## 💡 Skills:
-- Tools: Python, MySQL, R-Programming, Excel, MS Office suit
+- Tools: Python, MySQL, R-Programming, Excel, MS Office suit, HTML
 - 🚀 Proficient in Machine Learning, Model Building, Data Visualization, Dashboarding with Tableau and PowerBI, Advanced Excel, Stastical Analysis, Report Building, Data Analysis, Project Deployment with a keen eye for detail and a passion for automation. Possess a strong command of Python and MySQL.
+- Reterival Augmented Generation (RAG) model development and deployment, Model Fine-Tunning,LLM, GenAI, ChatBot
 
 ## 🔬 Projects:
 
