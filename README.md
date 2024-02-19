@@ -55,7 +55,20 @@ Here are some ideas to get you started:
 ### 🌐 Streamlit Web App:
 - 📊 Stock Analysis with Streamlit Web App: Utilizing the power of Streamlit📡, users to have seamless access to comprehensive stock market analysis, facilitating informed investment decisions through an intuitive and interactive platform.
 
-These classifications showcase the diverse range of projects, highlighting the various technologies and platforms used in each.
+### 🤖 GenAI based initiatives:
+- 🗄️ ChatBot that can generate response from your own dataset to avoid model hallucination (RAG Model)
+- 📝 WebApp for Resume analysis with AI to filter topmost relevant resume for given Job Description.
+- 🕵️‍♂️ Web Assistant to fetch information from given Website’s sitemap and ready to serve all your request.
+- 🚀 Designed and deployed Web App using LLM to generate response from given resources over Django Framework
+
+### 🔭 I’m currently working on ...
+- AutoGen
+- LangChain Agnts
+- Chain of Thoughts
+- Azure Deployment
+- LLM Model Finetunning
+
+These classifications showcase the diverse range of projects, highlighting the various technologies and platforms I have used in each.
 
 
 
