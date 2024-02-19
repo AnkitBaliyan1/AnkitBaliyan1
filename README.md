@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Beifly about me:
 
 
-🎓 Academics & 🏆 Certifications::
+🎓 Academics & 🏆 Certifications:
 - Completed B.Tech from University of Delhi/Acharya Narendra Dev College, specializing in Electronics. 
 - Completed Business Analytics  certification from Indian Institute of Management, Indore.
 - COmpleted Analytics certification by Google
